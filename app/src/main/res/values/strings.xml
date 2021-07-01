@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Pastillero Inteligente</string>
+    //Inicio
+    <string name="txt_name">Inicio</string>
+    <string name="txt_boton1">Login</string>
+    <string name="txt_boton2">Registro</string>
+
+    //Registro
+    <string name="txt_registro">Registro</string>
+    <string name="txt_tv1">Escriba el nombre de usuario</string>
+    <string name="txt_tv2">Escriba la contraseña</string>
+    <string name="txt_tv3">Repita la contraseña</string>
+    <string name="txt_tv4">Escriba el email</string>
+    <string name="txt_tv5">Referencia de su pastillero</string>
+    <string name="txt_et1">Nombre</string>
+    <string name="txt_et2">Contraseña</string>
+    <string name="txt_et3">Contraseña</string>
+    <string name="txt_et4">Email</string>
+    <string name="txt_et5">Num. pastillero</string>
+    <string name="txt_botonRegister">Enviar</string>
+
+    //Login
+    <string name="txt_login">Login</string>
+    <string name="txt_tvLoginUs">Introducir usuario</string>
+    <string name="txt_tvLoginPas">Introducir contraseña</string>
+    <string name="txt_etLoginUs">Usuario</string>
+    <string name="txt_etLoginPas">Contraseña</string>
+    <string name="txt_botonLogin">Enviar</string>
+
+    //Principal Pastillero
+    <string name="txt_boton_vincular">Vincular pastillero</string>
+    <string name="txt_boton_comprobar">Comprobar tomas</string>
+    <string name="txt_boton_anadir">Añadir medicamento</string>
+    <string name="txt_boton_modificaciones">Modificar medicación</string>
+    <string name="txt_boton_consultar">Añadir medidas</string>
+    <string name="txt_boton_cerrar">Cerrar sesión</string>
+
+    //Dispositivos Vinculados
+    <string name="txt_tv_vinculados">Dispositivos vinculados</string>
+    //Comunicacion Bluetooth
+    <string name="txt_wifi">Nombre del Wifi</string>
+    <string name="txt_wifi_pas">Contraseña del Wifi</string>
+    //Añadir pastillas
+    <string name="txt_medicamento">Añadir medicamentos</string>
+    <string name="txt_name_medicamento">Nombre del medicamento</string>
+    <string name="txt_tomas">Tomas del medicamento</string>
+    <string name="txt_medicamento_toma_1">Desayuno</string>
+    <string name="txt_medicamento_toma_2">Almuerzo</string>
+    <string name="txt_medicamento_toma_3">Merienda</string>
+    <string name="txt_medicamento_toma_4">Cena</string>
+    <string name="txt_boton_add_pastillas">Añadir</string>
+
+    //Consulta pastillas
+    <string name="txt_consulta_medicina">Medicación actual</string>
+
+    //Pastilla
+    <string name="txt_boton_eliminar">Eliminar</string>
+    <string name="txt_boton_modificar">Modificar</string>
+
+
+</resources>
